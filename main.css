@@ -1,3 +1,10 @@
-body {
-	background-image: url('topo-co.jpg');
+img {
+	position: relative;
+	opacity:.7;
+}
+
+.marker {
+	position: absolute;
+	left: xcoord;
+	top: ycoord;
 }
